@@ -86,3 +86,9 @@ h2 {
 a:hover {
     background-color: yellow;
 }
+body {
+	margin: 0;
+	background-image: url("muumer.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
