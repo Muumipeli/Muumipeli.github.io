@@ -104,3 +104,6 @@ a {
 p {
       color: black;
 }
+tr:hover td {
+    background-color: grey;
+}
