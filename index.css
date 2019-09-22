@@ -92,18 +92,6 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-h1 {
-      color: white;
-}
-h2 {
-      color: white;
-}
-a {
-      color: black;
-}
-p {
-      color: black;
-}
 tr:hover td {
     background-color: grey;
 }
